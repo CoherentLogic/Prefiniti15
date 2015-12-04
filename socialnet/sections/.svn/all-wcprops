@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/47/trunk/socialnet/sections
+END
+locations.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/47/trunk/socialnet/sections/locations.cfm
+END
+basic_information_loader.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/47/trunk/socialnet/sections/basic_information_loader.cfm
+END
+memberships.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/47/trunk/socialnet/sections/memberships.cfm
+END
+notifications_loader.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/socialnet/sections/notifications_loader.cfm
+END
+interests.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/49/trunk/socialnet/sections/interests.cfm
+END
+locations_loader.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/socialnet/sections/locations_loader.cfm
+END
+memberships_loader.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/socialnet/sections/memberships_loader.cfm
+END
+basic_information.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/47/trunk/socialnet/sections/basic_information.cfm
+END
+interests_loader.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/socialnet/sections/interests_loader.cfm
+END
+notifications.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/47/trunk/socialnet/sections/notifications.cfm
+END

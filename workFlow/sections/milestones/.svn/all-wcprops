@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/35/trunk/workFlow/sections/milestones
+END
+milestone_update.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/41/trunk/workFlow/sections/milestones/milestone_update.cfm
+END
+task_asgn_row.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/trunk/workFlow/sections/milestones/task_asgn_row.cfm
+END
+submit_milestone.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/41/trunk/workFlow/sections/milestones/submit_milestone.cfm
+END
+assign_task_codes.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/41/trunk/workFlow/sections/milestones/assign_task_codes.cfm
+END
+mtc_update.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/41/trunk/workFlow/sections/milestones/mtc_update.cfm
+END
+milestone_add.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/trunk/workFlow/sections/milestones/milestone_add.cfm
+END

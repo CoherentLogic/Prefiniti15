@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/authentication
+END
+authentication_udf.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/authentication/authentication_udf.cfm
+END
+Application.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25/trunk/authentication/Application.cfm
+END
+user.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/trunk/authentication/user.cfc
+END
+site_membership.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/47/trunk/authentication/site_membership.cfc
+END
+authentication.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30/trunk/authentication/authentication.js
+END
+site.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/47/trunk/authentication/site.cfc
+END

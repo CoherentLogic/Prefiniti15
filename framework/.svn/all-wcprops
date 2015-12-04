@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/framework
+END
+framework_udf.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/41/trunk/framework/framework_udf.cfm
+END
+link.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/36/trunk/framework/link.cfm
+END
+prefiniti.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/25/trunk/framework/prefiniti.js
+END
+homeView.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/49/trunk/framework/homeView.cfm
+END
+framework.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/framework/framework.js
+END
+welcomeView.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/framework/welcomeView.cfm
+END
+ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/25/trunk/framework/ajax.js
+END

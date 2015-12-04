@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/OpenHorizon/Identity
+END
+OHSession.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/48/trunk/OpenHorizon/Identity/OHSession.cfc
+END
+User.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/48/trunk/OpenHorizon/Identity/User.cfc
+END
+SiteMembership.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/48/trunk/OpenHorizon/Identity/SiteMembership.cfc
+END
+Department.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/48/trunk/OpenHorizon/Identity/Department.cfc
+END
+Site.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/48/trunk/OpenHorizon/Identity/Site.cfc
+END

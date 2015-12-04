@@ -1,0 +1,14 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|08 May 2008 01:08:22 -0000
+vti_extenderversion:SR|5.0.2.6790
+vti_cacheddtm:TX|08 May 2008 01:08:22 -0000
+vti_filesize:IR|888
+vti_cachedlinkinfo:VX|S|http://www.prefiniti.com/MyCL/components/headerBlockBG.png
+vti_cachedsvcrellinks:VX|NSHS|http://www.prefiniti.com/MyCL/components/headerBlockBG.png
+vti_cachedneedsrewrite:BR|false
+vti_cachedhasbots:BR|false
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|false
+vti_charset:SR|windows-1252
+vti_lineageid:SR|{826DA984-AB45-4226-A568-BBB726060801}
+vti_backlinkinfo:VX|

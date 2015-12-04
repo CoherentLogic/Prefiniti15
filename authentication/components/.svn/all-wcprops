@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/authentication/components
+END
+AuthError.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/authentication/components/AuthError.cfm
+END
+setInitialPasswordSubmit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/authentication/components/setInitialPasswordSubmit.cfm
+END
+editCompany.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/authentication/components/editCompany.cfm
+END
+userPicker.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/authentication/components/userPicker.cfm
+END
+siteNameByID.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/authentication/components/siteNameByID.cfm
+END
+confirmSMS.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/authentication/components/confirmSMS.cfm
+END
+editAssociation.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/authentication/components/editAssociation.cfm
+END
+customerDirectory.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/customerDirectory.cfm
+END
+editAccountSubmit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/editAccountSubmit.cfm
+END
+setInitialPassword.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/authentication/components/setInitialPassword.cfm
+END
+profileManager.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/authentication/components/profileManager.cfm
+END
+invite_user.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/authentication/components/invite_user.cfm
+END
+userPickerResults.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/userPickerResults.cfm
+END
+viewMyProfile.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/authentication/components/viewMyProfile.cfm
+END
+setPasswordSubmit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/setPasswordSubmit.cfm
+END
+editAccount.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/authentication/components/editAccount.cfm
+END
+addCompanySubmit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/authentication/components/addCompanySubmit.cfm
+END
+changeAccountType.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/changeAccountType.cfm
+END
+writeTextMessage.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/authentication/components/writeTextMessage.cfm
+END
+employeeDirectory.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/employeeDirectory.cfm
+END
+Login.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/authentication/components/Login.cfm
+END
+registerSubmit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/47/trunk/authentication/components/registerSubmit.cfm
+END
+checkAvailability.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/checkAvailability.cfm
+END
+setPerm.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/authentication/components/setPerm.cfm
+END
+addCompany.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/authentication/components/addCompany.cfm
+END
+invite_user_submit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/authentication/components/invite_user_submit.cfm
+END
+changePicture.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/authentication/components/changePicture.cfm
+END
+accountTypeSubmit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/accountTypeSubmit.cfm
+END
+NewLogin.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/authentication/components/NewLogin.cfm
+END
+register.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/18/trunk/authentication/components/register.cfm
+END
+editUser.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/authentication/components/editUser.cfm
+END
+setassoctype.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/authentication/components/setassoctype.cfm
+END
+addAccountSubmit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/authentication/components/addAccountSubmit.cfm
+END
+viewProfile.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/authentication/components/viewProfile.cfm
+END
+changePictureSub.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/authentication/components/changePictureSub.cfm
+END
+setMaintenance.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/authentication/components/setMaintenance.cfm
+END
+setLoginsDisabled.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/setLoginsDisabled.cfm
+END
+editCompanySubmit.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/authentication/components/editCompanySubmit.cfm
+END
+requirePerm.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/authentication/components/requirePerm.cfm
+END
+maintenancePanel.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/authentication/components/maintenancePanel.cfm
+END
+addAccount.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/authentication/components/addAccount.cfm
+END
+checkLogin.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/authentication/components/checkLogin.cfm
+END
+associationManager.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/authentication/components/associationManager.cfm
+END
+changePassword.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/authentication/components/changePassword.cfm
+END
+permCheckbox.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/authentication/components/permCheckbox.cfm
+END

@@ -1,0 +1,1 @@
+<cfmodule template="/controls/monthCalendar.cfm" viewer="/pm/CalendarViewers/MonthCal.cfm" view="large" date="#URL.date#" width="700" onDateChange="PM_SetDate">

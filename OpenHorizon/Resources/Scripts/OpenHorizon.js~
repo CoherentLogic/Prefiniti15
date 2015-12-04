@@ -1,0 +1,14 @@
+/*
+ * Prefiniti
+ *  prefiniti.js
+ *  Basic routines for Prefiniti to run
+ * 
+ * Created by John Willis
+ * Copyright (C) 2010 AJL Intel-Properties LLC
+ *
+ * $Revision: 1.2 $
+ */
+function LogOut()
+{
+	ColdFusion.Window.show("LogoutDialog");
+}
